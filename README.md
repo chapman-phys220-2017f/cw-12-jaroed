@@ -1,6 +1,6 @@
 # PHYS220 CW 12 
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Jarod Penniman and Jared Love**
 
 [![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-12-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-12-YOURNAME)
 
@@ -29,7 +29,7 @@ Your homework this week will be to finish this classwork assignment, and then us
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+**We feel like our ability to code and used python has finally reached the threshold so that we can start analyzing very interesting problems.  This assignment seemed to be more about the behavior of the system, and less about the code (which we liked!).  Is there a way to make the color of plots dependent on a third variable?  In this case, it would have been useful to make the color of the dots on the scatter plot dependent on time, so that early points are more reddish, and late points are more blueish.  This way, the evolution of the system could also been seen in the scatter plot.**
 
 ## Honor Pledge
 
@@ -40,4 +40,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Jarod Penniman and Jared Love**
